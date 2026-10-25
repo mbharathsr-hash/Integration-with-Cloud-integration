@@ -1,0 +1,4 @@
+#Store metainfo properties
+#Sun Oct 25 11:50:50 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Integrated Messaging Runtime including Inbound Conversion, Receiver Determination & Interface Determination
